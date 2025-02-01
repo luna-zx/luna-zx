@@ -2,10 +2,6 @@
   <img src="https://count.getloli.com/get/@luna-zx?theme=rule34">
 </div>
 
-### <h2>:man_technologist: About Me : </h2>
-- :computer: I am Fullstack Web Developer and probably a CTF guy too.
-- :sparkles: I am from Thailand, Mukdahan Province!
-
 <div align="center">
   
   [![HTB](https://www.hackthebox.eu/badge/image/1397904)](https://app.hackthebox.com/users/1397904)
