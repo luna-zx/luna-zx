@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="https://count.getloli.com/get/@luna-zx?theme=rule34">
-</div>
 
-<div align="center">
-  
-  [![HTB](https://www.hackthebox.eu/badge/image/1397904)](https://app.hackthebox.com/users/1397904)
-</div>
- 
 <div align="center">
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/939819492836524032?showDisplayName=true&hideStatus=true&hideDecoration=false)](https://discord.com/users/939819492836524032)
