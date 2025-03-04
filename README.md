@@ -15,9 +15,9 @@
   <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
   </a>
 
-  <a href="https://hackerone.com/luna_zx_001">
+ <!-- <a href="https://hackerone.com/luna_zx_001">
   <img src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white">
-  </a>
+  </a> -->
   
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
