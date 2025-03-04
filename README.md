@@ -7,9 +7,9 @@
 
 <div align="center">
   <div id="badges">
-  <a href="https://app.hackthebox.com/users/1397904">
+<!--   <a href="https://app.hackthebox.com/users/1397904">
   <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">
-  </a>
+  </a> -->
 
   <a href="https://tryhackme.com/r/p/LunaHTTP">
   <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
