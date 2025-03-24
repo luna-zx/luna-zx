@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/939819492836524032?showDisplayName=true&hideStatus=true&hideDecoration=false)](https://discord.com/users/939819492836524032)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/939819492836524032)](https://discord.com/users/939819492836524032)
   
 </div>
 
