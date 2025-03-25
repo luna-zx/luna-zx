@@ -25,7 +25,6 @@
 </div>
 </div>
 
----
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,typescript,nodejs" />
 </div>
