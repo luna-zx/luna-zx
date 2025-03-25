@@ -25,25 +25,8 @@
 </div>
 </div>
 
-### <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div>
-   <h3>:hammer: Web Development : </h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,react,next,bootstrap,express" />
-</div>
-
-<div>
-   <h3>:minidisc: Database : </h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma" />
-</div>
-
-<div>
-   <h3>:robot: IoT : </h3>
-  <img src="https://skillicons.dev/icons?i=cs,arduino" />
-</div>
-
-<div>
-   <h3>:key: Others : </h3>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,docker,git,postman,bash" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,nodejs" />
 </div>
 
 ---
