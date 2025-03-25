@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">
   </a> -->
 
-  <a href="https://tryhackme.com/p/Expluna">
+  <a target="_blank" href="https://tryhackme.com/p/Expluna">
   <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
   </a>
 
