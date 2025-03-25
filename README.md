@@ -25,20 +25,8 @@
 </div>
 </div>
 
+---
 <div>
   <img src="https://skillicons.dev/icons?i=js,typescript,nodejs" />
 </div>
 
----
-<div align="center">
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna-zx&show_icons=true&theme=react)
-  
-</div>
-
-<div align="center">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luna-zx&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
